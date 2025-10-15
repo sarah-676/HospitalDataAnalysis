@@ -1,1 +1,6 @@
-"sarah hm"
+PatientID,Age,Sex,BloodPressure,Cholesterol,Diagnosis 
+1,45,F,120,180,Hypertension 
+2,60,M,140,200,Heart Disease 
+3,35,F,110,160,Normal 
+4,55,M,150,220,High Cholesterol 
+5,42,F,125,190,Normal 
